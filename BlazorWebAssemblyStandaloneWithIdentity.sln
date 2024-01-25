@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Backend", "Backend\Backend.csproj", "{345BC847-8AD3-4311-96B5-8E6661B92E17}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorWasmAuth", "BlazorWasmAuth\BlazorWasmAuth.csproj", "{DCAF0D90-54D9-4AED-B6B0-5EEE8B1A7544}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{345BC847-8AD3-4311-96B5-8E6661B92E17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{345BC847-8AD3-4311-96B5-8E6661B92E17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{345BC847-8AD3-4311-96B5-8E6661B92E17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{345BC847-8AD3-4311-96B5-8E6661B92E17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCAF0D90-54D9-4AED-B6B0-5EEE8B1A7544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCAF0D90-54D9-4AED-B6B0-5EEE8B1A7544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCAF0D90-54D9-4AED-B6B0-5EEE8B1A7544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCAF0D90-54D9-4AED-B6B0-5EEE8B1A7544}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09FA3635-1300-41E1-98ED-C2B3317BBF27}
+	EndGlobalSection
+EndGlobal
